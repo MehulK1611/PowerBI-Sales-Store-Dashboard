@@ -1,7 +1,11 @@
 ## Overview
 This project analyzes the sales data of a store using Power BI. The interactive and live dashboard displays sales profit by month, category, and sub-category. It also compares different payment methods and highlights key performance indicators (KPIs).
 
-## Features
+## Data Cleaning and Processing
+- Cleaned and processed the data to prepare it for analysis
+- Handled missing values, corrected data types, and removed irrelevant data
+
+## Dashboard
 - Sales profit by month
 - Sales profit by sub-category
 - Sales quantity by category
@@ -16,7 +20,7 @@ This project analyzes the sales data of a store using Power BI. The interactive 
 ## Technical Details
 - Development environment: Power BI Desktop
 
-## Dashboard
+## Dashboard Overview
 ![image](https://github.com/user-attachments/assets/fcb03fcf-56a9-4757-965d-a067e5ddba59)
 
 
