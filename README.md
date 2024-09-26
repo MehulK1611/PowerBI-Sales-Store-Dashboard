@@ -13,7 +13,7 @@ This project analyzes the sales data of a store using Power BI. The interactive 
   - Pie charts
   - Histograms
 
-##Technical Details
+## Technical Details
 - Development environment: Power BI Desktop
 
 ## Dashboard
