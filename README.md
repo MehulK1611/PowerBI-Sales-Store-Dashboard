@@ -20,7 +20,7 @@ This project analyzes the sales data of a store using Power BI. The interactive 
 ![image](https://github.com/user-attachments/assets/fcb03fcf-56a9-4757-965d-a067e5ddba59)
 
 
-##Conclusion
+## Conclusion
 This project provides a comprehensive analysis of a store's sales data. The interactive dashboard makes it easy to understand sales trends and identify areas for improvement. You can clone this project and use it as a starting point for your own sales data analysis.
 
 ### Lets Connect
